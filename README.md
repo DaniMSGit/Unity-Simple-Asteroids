@@ -3,7 +3,7 @@
 This little game emulates basically the classic game of Atari, Asteroids. It has been created to perform different machine learning tests.
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/18056187/53951815-998be180-40cf-11e9-8053-41df8746ce04.png">
+  <img width="144" height="166" src="https://user-images.githubusercontent.com/18056187/53951815-998be180-40cf-11e9-8053-41df8746ce04.png">
 </p>
 
 
