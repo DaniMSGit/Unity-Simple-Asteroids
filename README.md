@@ -2,6 +2,8 @@
 
 This little game emulates basically the classic game of Atari, Asteroids. It has been created to perform different machine learning tests.
 
+![screengame](https://user-images.githubusercontent.com/18056187/53951815-998be180-40cf-11e9-8053-41df8746ce04.png)
+
 ## Getting Started
 
 The content of this repository is the folder of the Unity project. The compiled video game for S.O Windows has been added to run it directly. Unity allows you to compile the application for different platforms.
